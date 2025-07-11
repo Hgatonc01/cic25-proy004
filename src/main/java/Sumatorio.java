@@ -20,6 +20,8 @@ public class Sumatorio {
 
         int b[] = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
+        // suma decrementando
+
         suma = 0;
         for (int i = s1.length - 1; i >= 0; i--) {
             suma += s1[i];
